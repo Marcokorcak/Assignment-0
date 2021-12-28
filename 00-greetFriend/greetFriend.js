@@ -1,6 +1,6 @@
 function greetFriend(name) {
-  let person_name = ("Hello, "+ name + "!");
-  return person_name;
+  let personName = ("Hello, "+ name + "!"); //variable to say "Hello" with the name
+  return personName; //returns 
 }
 
 // Do not edit this line;
